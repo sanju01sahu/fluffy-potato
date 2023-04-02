@@ -212,7 +212,7 @@
      
              
              
-             "images":"https://ii2.pepperfry.com/media/catalog/product/o/…tress-by-sleepycat-original-3-layered--rgrsji.jpg"
+             "images":["https://ii2.pepperfry.com/media/catalog/product/o/…tress-by-sleepycat-original-3-layered--rgrsji.jpg"]
           },
      
      
@@ -233,7 +233,7 @@
      
              "description":"An Ortho mattress suitable for all types of sleepers, that provides the ideal balance between comfort and support with Open-cell Memory Foam & High Density Base.",    
                  
-             "images":"https://ii3.pepperfry.com/media/catalog/product/o/…free-pillow-by-sleepx-ortho-plus-quilt-es8ocv.jpg"
+             "images":["https://ii3.pepperfry.com/media/catalog/product/o/…free-pillow-by-sleepx-ortho-plus-quilt-es8ocv.jpg"]
          
          },
      
@@ -253,7 +253,7 @@
              
              "description":"An Ortho mattress suitable for all types of sleepers, that provides the ideal balance between comfort and support with Open-cell Memory Foam & High Density Base.",
        
-             "images":"https://ii2.pepperfry.com/media/catalog/product/o/…d-original-3-layered-foam-6-inch-king--temlar.jpg"
+             "images":["https://ii2.pepperfry.com/media/catalog/product/o/…d-original-3-layered-foam-6-inch-king--temlar.jpg"]
           },
      
           {
@@ -272,7 +272,7 @@
              "description":"An Ortho mattress suitable for all types of sleepers, that provides the ideal balance between comfort and support with Open-cell Memory Foam & High Density Base.",
      
                
-             "images":"https://ii3.pepperfry.com/media/catalog/product/d/…king-size-mattress-with-free-pillow-by-al4hwo.jpg"
+             "images":["https://ii3.pepperfry.com/media/catalog/product/d/…king-size-mattress-with-free-pillow-by-al4hwo.jpg"]
           },
      
           {
@@ -294,7 +294,7 @@
      
              
              
-             "images":"https://ii1.pepperfry.com/media/catalog/product/l/…ess--with-1-free-bedsheet--in-white-co-hpbym9.jpg"
+             "images":["https://ii1.pepperfry.com/media/catalog/product/l/…ess--with-1-free-bedsheet--in-white-co-hpbym9.jpg"]
           },
      
           {
@@ -316,7 +316,7 @@
      
              
              
-             "images":"https://ii2.pepperfry.com/media/catalog/product/d/…king-size-mattress-with-free-pillow-by-bttm4w.jpg"
+             "images":["https://ii2.pepperfry.com/media/catalog/product/d/…king-size-mattress-with-free-pillow-by-bttm4w.jpg"]
           },
      
           {
@@ -338,7 +338,7 @@
      
              
              
-             "images":"https://ii3.pepperfry.com/media/catalog/product/o/…-king-size-mattress--by-sleepycat-orig-wgfbt3.jpg"
+             "images":["https://ii3.pepperfry.com/media/catalog/product/o/…-king-size-mattress--by-sleepycat-orig-wgfbt3.jpg"]
           },
      
           {
@@ -360,7 +360,7 @@
      
              
              
-             "images":"https://ii1.pepperfry.com/media/catalog/product/r/…size-mattress-by-comforto-royal-coil-p-prpju1.jpg"
+             "images":["https://ii1.pepperfry.com/media/catalog/product/r/…size-mattress-by-comforto-royal-coil-p-prpju1.jpg"]
           },
      
           {
@@ -382,7 +382,7 @@
      
              
              
-             "images":"https://ii3.pepperfry.com/media/catalog/product/o/…yer-ortho-smartgrid-8-inch-hr-foam-kin-cegrk7.jpg"
+             "images":["https://ii3.pepperfry.com/media/catalog/product/o/…yer-ortho-smartgrid-8-inch-hr-foam-kin-cegrk7.jpg"]
           },
      
           {
@@ -404,7 +404,7 @@
      
              
              
-             "images":"https://ii3.pepperfry.com/media/catalog/product/s/…s-in-white-colour-by-sleepyhead-sense--yuwusr.jpg"
+             "images":["https://ii3.pepperfry.com/media/catalog/product/s/…s-in-white-colour-by-sleepyhead-sense--yuwusr.jpg"]
           },
      
           {
@@ -426,7 +426,7 @@
      
              
              
-             "images":"https://ii3.pepperfry.com/media/catalog/product/h/…-by-springtek-hybrid-pocket-spring---n-xjivnx.jpg"
+             "images":["https://ii3.pepperfry.com/media/catalog/product/h/…-by-springtek-hybrid-pocket-spring---n-xjivnx.jpg"]
           },
      
      
@@ -449,7 +449,7 @@
      
              
              
-             "images":"https://ii1.pepperfry.com/media/catalog/product/h/…edles-hybrid-latex-mattress-6-inches-k-4kuaxz.jpg"
+             "images":["https://ii1.pepperfry.com/media/catalog/product/h/…edles-hybrid-latex-mattress-6-inches-k-4kuaxz.jpg"]
           },
      
           {
@@ -471,7 +471,7 @@
      
              
              
-             "images":"https://ii1.pepperfry.com/media/catalog/product/h/…edles-hybrid-latex-mattress-6-inches-k-4kuaxz.jpg"
+             "images":["https://ii1.pepperfry.com/media/catalog/product/h/…edles-hybrid-latex-mattress-6-inches-k-4kuaxz.jpg"]
           },
      
           {
@@ -493,7 +493,7 @@
      
              
              
-             "images":"https://ii1.pepperfry.com/media/catalog/product/p/…ss-with-free-pillow-by-gilson-pearl-bo-iitn1g.jpg"
+             "images":["https://ii1.pepperfry.com/media/catalog/product/p/…ss-with-free-pillow-by-gilson-pearl-bo-iitn1g.jpg"]
           },
      
           {
@@ -515,7 +515,7 @@
      
              
              
-             "images":"https://ii1.pepperfry.com/media/catalog/product/s/…s-in-white-colour-by-sleepyhead-sense--nmr08u.jpg"
+             "images":["https://ii1.pepperfry.com/media/catalog/product/s/…s-in-white-colour-by-sleepyhead-sense--nmr08u.jpg"]
           }
      
      ]
